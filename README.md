@@ -6,7 +6,7 @@ An interactive Business Intelligence (BI) dashboard built using **Power BI** to 
 
 ## 📊 Dashboard Preview
 
-![Prime Video Dashboard]([padashboard_preview.png](https://github.com/OsamaYassin/Prime-Video-Analytics-BI/blob/main/prime_video_powerbi.png))
+![Prime Video Dashboard]((https://github.com/OsamaYassin/Prime-Video-Analytics-BI/blob/main/prime_video_powerbi.png))
 *(Note: Replace `path_to_your_image/dashboard_preview.png` with the actual path or link to your dashboard screenshot in the repository).*
 
 ---
