@@ -44,4 +44,4 @@ The dataset provides a comprehensive overview of the Prime Video library with th
 
 1. Clone the repository:
    ```bash
-     git clone  [https://github.com/OsamaYassin/Prime-Video-Analytics-BI.git]
+     git clone  https://github.com/OsamaYassin/Prime-Video-Analytics-BI.git
